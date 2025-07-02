@@ -1,5 +1,5 @@
 
-# CzechDnD5eAnimations2.3.1
+# CzechDnD5eAnimations
 
 Czech translation of DnD5e Animations version 2.3.1
 
@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro DnD5e Animations verze 2.3.1. Obsah
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://raw.githubusercontent.com/Lethrendis/CzechTranslationDnD5eAnimations/main/module.json
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationDnD5eAnimations/Core12/module.json
 ```
 
 ## Autor
