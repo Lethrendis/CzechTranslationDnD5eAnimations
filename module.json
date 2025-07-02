@@ -1,0 +1,27 @@
+{
+  "id": "czechtranslationdnd5eanimations",
+  "title": "CzechTranslationDnD5eAnimations",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad DnD5e Animations.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "discord": "Lethrendis",
+      "url": "https://github.com/Lethrendis"    
+    }
+  ],
+  "languages": [
+    {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationDnD5eAnimations/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationDnD5eAnimations/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationDnD5eAnimations/archive/refs/heads/main.zip"
+}
