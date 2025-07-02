@@ -1,5 +1,5 @@
 
-# CzechDnD5eAnimations2.3.1
+# CzechDnD5eAnimations
 
 Czech translation of DnD5e Animations version 2.3.1
 
